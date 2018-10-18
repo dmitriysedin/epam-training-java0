@@ -10,7 +10,7 @@ public class AverageAndGeometricMean {
 
     public static final int numberOfDigits = 6;
 
-    public static double average(int number) {
+    public static double averageCalculation(int number) {
 
         int sum = number % 10;
         sum += (number /= 10) % 10;
@@ -22,7 +22,7 @@ public class AverageAndGeometricMean {
         return sum / numberOfDigits;
     }
 
-    public static double geometricMean(int number) {
+    public static double geometricMeanCalculation(int number) {
 
         int multiple = number % 10;
         multiple *= (number /= 10) % 10;

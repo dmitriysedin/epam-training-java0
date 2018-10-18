@@ -9,7 +9,7 @@ package lesson0.recuiredTasks.task3;
  */
 public class SquareOfRing {
 
-    public static double squareOfRing(double r1, double r2) {
+    public static double computeSquareOfRing(double r1, double r2) {
 
         return Math.PI * (r1 * r1 - r2 * r2);
     }

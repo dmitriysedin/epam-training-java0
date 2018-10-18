@@ -9,8 +9,8 @@ public class Test {
 
         int number = 123456;
 
-        System.out.println("Среднее арифметическое числа " + number + " = " + AverageAndGeometricMean.average(number));
+        System.out.println("Среднее арифметическое числа " + number + " = " + AverageAndGeometricMean.averageCalculation(number));
 
-        System.out.println("Среднее геометрическое числа " + number + " = " + AverageAndGeometricMean.geometricMean(number));
+        System.out.println("Среднее геометрическое числа " + number + " = " + AverageAndGeometricMean.geometricMeanCalculation(number));
     }
 }

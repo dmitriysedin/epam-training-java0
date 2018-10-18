@@ -8,7 +8,7 @@ public class Test {
 
         int number = 4321;
 
-        System.out.println("Это " + SequenceOfNumbers.isDescindingOrIncreasingSequensOfNambers(number) +
+        System.out.println("Это " + SequenceOfNumbers.isDescendingOrIncreasingSequensOfNambers(number) +
                 " что цифры числа " + number + " представляют собой убывающую или возрастающую последовательность");
     }
 }

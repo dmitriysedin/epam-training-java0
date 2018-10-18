@@ -10,6 +10,6 @@ public class EqualityOfNumbers {
 
     public static boolean isEqualityOfNumbers(double a, double b, double c) {
 
-        return (a == b && a == c);
+        return a == b && a == c;
     }
 }

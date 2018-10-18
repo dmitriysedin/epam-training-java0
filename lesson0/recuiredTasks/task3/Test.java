@@ -11,6 +11,6 @@ public class Test {
         double r2 = 1.5;
 
         System.out.println("Площадь кольца между окружностями с общим центром и радиусами " +
-                r1 + " и " + r2 + " равна " + SquareOfRing.squareOfRing(r1, r2));
+                r1 + " и " + r2 + " равна " + SquareOfRing.computeSquareOfRing(r1, r2));
     }
 }

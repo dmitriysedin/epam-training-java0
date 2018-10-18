@@ -12,7 +12,7 @@ package lesson0.recuiredTasks.task4;
  */
 public class SequenceOfNumbers {
 
-    public static boolean isDescindingOrIncreasingSequensOfNambers(int number) {
+    public static boolean isDescendingOrIncreasingSequensOfNambers(int number) {
 
         int number1 = number % 10;
         int number2 = (number /= 10) % 10;
