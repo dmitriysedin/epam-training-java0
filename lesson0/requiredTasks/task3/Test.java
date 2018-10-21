@@ -1,4 +1,4 @@
-package lesson0.recuiredTasks.task3;
+package lesson0.requiredTasks.task3;
 
 /**
  * Created by Dmitriy Sedin on 16.10.2018.
