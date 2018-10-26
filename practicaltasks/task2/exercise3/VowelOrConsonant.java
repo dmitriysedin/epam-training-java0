@@ -1,4 +1,4 @@
-package task1.exercise3;
+package practicaltasks.task2.exercise3;
 
 import java.util.ArrayList;
 import java.util.HashSet;

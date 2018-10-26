@@ -17,7 +17,7 @@ public class HeadsOrTails {
         Random random = new Random();
 
         for(int i = 0; i < numberOfToss; i++){
-            if(random.nextInt(1000) >> 1 == 0) {
+            if(random.nextInt(numberOfToss) >> 1 == 0) {
                 countOfHeads++;
             }
         }

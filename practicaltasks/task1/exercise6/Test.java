@@ -1,4 +1,4 @@
-package task1.exercise6;
+package practicaltasks.task1.exercise6;
 
 /**
  * Created by Dmitriy Sedin on 16.10.2018.
