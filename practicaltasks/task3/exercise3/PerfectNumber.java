@@ -12,7 +12,7 @@ package practicaltasks.task3.exercise3;
  */
 public class PerfectNumber {
 
-    public static boolean calculatingOfPerfectNumber(long number) {
+    public static boolean isPerfectNumber(int number) {
 
         int sumOfDivider = 0;
 

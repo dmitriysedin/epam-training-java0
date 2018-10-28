@@ -61,6 +61,9 @@ public class EffectiveAlgorithm {
                 primeNumberDivider.add(i);
             }
         }
+        if(isPrimeNumber(number)){
+            primeNumberDivider.add(number);
+        }
         return primeNumberDivider;
     }
 
